@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ejercicio 2</string>
+    <string name="bienvenido">Bienvenido al registro de usuarios</string>
+    <string name="nombre">Digite su nombre</string>
+    <string name="celular">Celular</string>
+    <string name="email">Email</string>
+    <string name="contrase">Contraseña</string>
+    <string name="mensaje">Dijite su mensaje...</string>
 </resources>
